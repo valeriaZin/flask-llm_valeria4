@@ -10,9 +10,9 @@
 - `models.py` — модели базы данных и сервис LLM
 - `templates/` — HTML-шаблоны (например, `index.html`)
 - `static/` — статические файлы (CSS, JS, изображения)
-    - `css/style.css`
-    - `js/script.js`
-    - `images/logo.png`
+    - `style.css`
+    - `script.js`
+    - `logo.png`
 
 ## Установка
 
