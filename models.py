@@ -30,7 +30,7 @@ class LLMService:
             self.sys_prompt = "Ты оператор техподдержки, отвечай вежливо"
             # Указываем путь к модели, 
             # Здесь нужно будет указать идентификатор своего аккаунта 
-            self.model = "gpt://b1g8i6bj34avp7kulp7h/yandexgpt-lite"
+            self.model = "gpt://b1gd4dt3l1spqgmer1n1/yandexgpt-lite"
 
         except Exception as e:
             return f"Произошла ошибка: {str(e)}"
